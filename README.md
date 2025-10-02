@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm itsWickedSyntax!
 
-<!--
-**itsWickedSyntax/itsWickedSyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** who loves building, automating, and solving problems with code—especially using **Python** 🐍.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Professional Software Engineer
+- 🐍 Python enthusiast & automation lover
+- 🌱 Always learning and growing
+
+---
+
+## 🔥 Connect With Me
+- 📸 [Instagram](https://www.instagram.com/absgotit/)
+
+---
+
+## ✨ Fun Facts
+- I bring code to life with Python magic!
+- Always up for a challenge & happy to collaborate 🤝
+
+---
+
+<!-- You can add more sections or badges as you grow! -->
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
