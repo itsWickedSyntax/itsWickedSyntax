@@ -1,27 +1,87 @@
-# 👋 Hi there, I'm itsWickedSyntax!
+<div align="center">
+  
+# **itsWickedSyntax 🜲** 
+</div>
 
-I'm a passionate **Software Engineer** who loves building, automating, and solving problems with code—especially using **Python** 🐍.
 
----
+<div align="center">
 
-## 🚀 About Me
-- 💻 Professional Software Engineer
-- 🐍 Python enthusiast & automation lover
-- 🌱 Always learning and growing
+<img src="https://img.shields.io/badge/web_Dev-Coding_geek-blue"> 
+<img src="https://img.shields.io/badge/PlaWform-Linux_ParrotOS-hotpink"> 
+<img src="https://img.shields.io/badge/Status-Active-blue">
 
----
 
-## 🔥 Connect With Me
-- 📸 [Instagram](https://www.instagram.com/absgotit/)
 
----
+**Hi! I'm itsWickedSyntax loves clean code, clever hacks, and building things that actually solve problems. I blend creativity with pragmatism to craft elegant solutions. 🚀**
 
-## ✨ Fun Facts
-- I bring code to life with Python magic!
-- Always up for a challenge & happy to collaborate 🤝
+</div>
 
 ---
 
-<!-- You can add more sections or badges as you grow! -->
+<div align="center">
+  
+### **About Me**
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<img src="https://img.shields.io/badge/insta-absGotit-royalblue"> 
+<img src="https://img.shields.io/twitter/follow/:Q8ibisexual"> 
+<img src="https://img.shields.io/badge/twitter-Q8ibisexual-royalblue">
+
+
+- 🔭 Currently exploring: security tooling, automation, and scalable backend systems
+- 🌱 Learning: advanced cloud-native patterns & distributed systems
+- 👯 Open to collaborating on: open-source tooling, developer DX, security automation
+- 💬 Ask me about: Python, Bash, Docker, automation, and witty commit messages
+- ⚡ Fun fact: I write scripts that make my future self say "thank you"
+
+---
+
+<div align="left">
+
+### Highlights
+- 🛠️ Tooling: subdomain & recon automation, scan orchestration, parsing pipelines
+- 🧰 Languages: Python, JavaScript (Node.js), Bash
+- ☁️ DevOps: Docker, CI/CD, GitHub Actions
+- 🔒 Security: passive recon & template-based scanning workflows
+
+---
+
+### Skills & Tech Stack
+- Languages & Scripting: Python 🐍 | JavaScript/Node.js ⚡ | Bash 🧑‍🔧
+- DevOps & Containers: Docker 🐳 | GitHub Actions ⚙️
+- Recon & Security Tools: subfinder, feroxbuster, gobuster, nuclei, naabu
+- Data & Storage: SQLite / PostgreSQL 🗄️
+- No-code / Automation: n8n / Make.com 🔁
+
+</div>
+
+---
+  
+# 🜲 Projects & Repos 🜲
+
+<div align="left">
+
+- #### 🔎 Gotcha! — Advanced Username & Email OSINT Tool
+- #### 🧩 DiabloLLM — Streamlit app designed for seamless interaction with local GGUF models 
+- #### 🌐 MEM-CLEAN — Ultimate System Performance Monitor & Memory Optimizer
+
+</div>
+
+---
+
+## How I Work
+- I believe in automation first: if I find myself doing something twice, I script it.
+- I favor small, well-tested tools that do one thing well.
+- I commit early, commit often, and write commit messages that future me understands. 😅
+
+---
+
+## Fun Corner 🎲
+- Favorite snack while debugging: ☕ + 🍪
+- Music: Lo-fi beats & problem-solving playlists 🎧
+- Motto: "Ship small, learn fast." 🛳️💨
+
+---
+
+Thanks for stopping by — feel free to explore my repos and open an issue or PR if you want to collaborate! 🙌
+
+</div>
