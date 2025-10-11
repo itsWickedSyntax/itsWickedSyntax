@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/PlaWform-Linux_ParrotOS-hotpink"> 
 <img src="https://img.shields.io/badge/Status-Active-blue">
 
+────────────୨ৎ────────────
 
 
 **Hi! I'm itsWickedSyntax loves clean code, clever hacks, and building things that actually solve problems. I blend creativity with pragmatism to craft elegant solutions. 🚀**
@@ -26,12 +27,26 @@
 <img src="https://img.shields.io/twitter/follow/:Q8ibisexual"> 
 <img src="https://img.shields.io/badge/twitter-Q8ibisexual-royalblue">
 
+────────────୨ৎ────────────
 
 - 🔭 Currently exploring: security tooling, automation, and scalable backend systems
 - 🌱 Learning: advanced cloud-native patterns & distributed systems
 - 👯 Open to collaborating on: open-source tooling, developer DX, security automation
 - 💬 Ask me about: Python, Bash, Docker, automation, and witty commit messages
 - ⚡ Fun fact: I write scripts that make my future self say "thank you"
+
+---
+
+<div align="left"> 
+  
+# 🜲 Projects & Repos 🜲
+
+
+- #### 🔎 Gotcha! — Advanced Username & Email OSINT Tool
+- #### 🧩 DiabloLLM — Streamlit app designed for seamless interaction with local GGUF models 
+- #### 🌐 MEM-CLEAN — Ultimate System Performance Monitor & Memory Optimizer
+
+</div>
 
 ---
 
@@ -54,31 +69,27 @@
 
 </div>
 
+
 ---
+
+<div align="left"> 
   
-# 🜲 Projects & Repos 🜲
-
-<div align="left">
-
-- #### 🔎 Gotcha! — Advanced Username & Email OSINT Tool
-- #### 🧩 DiabloLLM — Streamlit app designed for seamless interaction with local GGUF models 
-- #### 🌐 MEM-CLEAN — Ultimate System Performance Monitor & Memory Optimizer
-
-</div>
-
----
-
 ## How I Work
 - I believe in automation first: if I find myself doing something twice, I script it.
 - I favor small, well-tested tools that do one thing well.
 - I commit early, commit often, and write commit messages that future me understands. 😅
 
----
+</div>
+
+
+<div align="left">
 
 ## Fun Corner 🎲
 - Favorite snack while debugging: ☕ + 🍪
 - Music: Lo-fi beats & problem-solving playlists 🎧
 - Motto: "Ship small, learn fast." 🛳️💨
+
+</div>
 
 ---
 
